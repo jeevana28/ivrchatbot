@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ivr-bot-goug",
+  "private_key_id": "71bb31694f0845f149bedf4039ddc1de16ea7b12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr7/6fhWYyDVRI\nQ6L655HA/tTiWHVfl6+nfxzm6s6sw/l9ak8UmQRGlTZz3G4LszB2gIAaM9GZ5Tnx\nQZ07nNJHLnqdOD51qtwxdajzOp9ThbTS5QnA2idBQL/tPebdve8ejSd+894kDQtm\nXi6jDhwj7D/zbCpMEPfAh2v+hRetaDKPoiZRQwiszMJzUwFt2EkAvhefFeUEM6Kz\n+l2Sucf7XuoFmb0pLd71XwPhRlmVjSStQJkJcgJEPjbEuhMzFXMQwPN7eaptN2KU\n8kip41t9J/BHruuvmkt4aN5S3/awlj9zdG4gjuIEPy3WGaupsoZsoVwyRCVIDhPx\nX2jO2/xPAgMBAAECggEACSZGzvda1lwGOag7wo1TIMmOy5K4gENCqi+l+pXRNLlj\nC+z901NHOnhTQvwecQnykMPKzVonk8Bygmei9dqlB/uts7McA8f5WrpvqK3cb6Xk\nVvqwN66EO0E2VWofYHpsgJwzV1qj3hhBnItzgOLN1Y2LY6lEYPLgNEMgmJU9itEz\nvfFMFNaQEMXdXicpGrV+3ZN9pjAlVRg5YK9vPT6glILt/Tz/oUrA5hQ8FNs/7wJd\nGfQB3LlEaVKhiD9oJVXrBm1cJf9u0JWO9qiiIHuXXhM32k4+KdxIty1/daUt0/8I\ngvKpO6vWbPnRg3VxFc1PphIIkYWD4LlIFtzCce5i6QKBgQDmisvgewDEN0EK55ar\nfG0PD60zt7qBfFIxgBmoIMsW7emWekwikaOt3nNoOCRMtcvFCiewqUeY4XBnbNRK\nCnNT7rc+sx0u0uYlP+ABKHPzX27OgoAtT7IWQSKVaodSTT3874UUdwP3+AxnDlMT\nIOcJmaFG70Hh4t2iRZEOiRQfSQKBgQC+7IAX8um2GilhcMHb4UyTA22CxpjA/pKI\nqYXpjKlfmXpH+HURmMvWqrYoTEm9uXPsVM2IyQ1L8aWhnvVINHvHGFH3xnJfDAfw\n8D4UxjMdj6Q3fxLjgo7eTqNs+cUQNQlP6cWRyu/NZY0QwJXaB8sNABgmUwqs7yRr\nWQQsMmoG1wKBgQCj63BG7m5/FWJz5HKm/9NzcAwQx8QeqUyv0YtsldSROxxpWA+m\nTLN6vr6EDdcRi/mU4kGSROqZc0G+6AyRkJirxwIX3LcVQfNN7PrTF/ZJx0M8JmII\n1a+kTy/N2W7aP/2hSJTxFiaGO6Jl7DN5WF2t38RicWAAwpQf+yLGmQTrsQKBgHh5\nL5LtGwBnnbj4t7sRfYo+3Xlp67XMbZaCshdfRPkoFXsYknaaHfXFHtBq4xUu0rFM\nCa3If/Vt8//6F/iJ9Zj6Ba79r+m947zrO6FMN7DtlMfYDYk2NwScRo9bRDgn30pn\nzt1iWtMWw17Qxz4fMMdxScvVFqVs+WQrdXCWF0VdAoGBAN0bTLtiCuXQylx1nudj\ntKg30DFzb/WqTzgjMdkSxzjP9jeky+TsVjWeBvdRjJwWncZe1xglsyVt6yw9Qjwz\notYky+PrOMPUEdoQnV+pKlLDb0qYJGDuw8URJnur9Sa3QX/8sfWZ+JtD77pBN2TT\nkVmjz4qo2W1s/Yrl1+XPqcfA\n-----END PRIVATE KEY-----\n",
+  "client_email": "mavericks-ivr@ivr-bot-goug.iam.gserviceaccount.com",
+  "client_id": "101981986329557745097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mavericks-ivr%40ivr-bot-goug.iam.gserviceaccount.com"
+}
