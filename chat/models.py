@@ -54,6 +54,8 @@ class Response(models.Model):
 
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    email = models.EmailField(primary_key = True, max_length=150)
+    email = models.EmailField(primary_key = True, max_length=150, unique = True)
     def __str__(self):
         return self.user.username
+
+

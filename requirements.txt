@@ -1,3 +1,5 @@
-Django==2.1.5
-dialogflow==0.5.1
+django
+dialogflow
 django-crispy-forms
+
+
