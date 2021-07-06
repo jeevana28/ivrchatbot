@@ -13,7 +13,7 @@ The following sections guide you through configuring, running, and deploying the
 
 Clone the repository to your local machine:
 ```js 
-git clone https://github.com/sayanidutta2345/IVR_chatbot_final.git
+git clone https://github.com/jeevana28/ivrchatbot.git
 ```
 cd into the directory that contains the code/.
 Alternatively, you can download the sample as a zip and extract it.
