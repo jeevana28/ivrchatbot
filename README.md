@@ -1,7 +1,5 @@
 # Dialogflow IVR Chatbot
 
-## Demo Video
-https://youtu.be/7k73qe_hLxM
 
 ## Drive Link 
 https://drive.google.com/drive/folders/1hG3cqUPDleWUVGPYRZKyl659dPxZOc9s?usp=sharing
